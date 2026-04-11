@@ -67,7 +67,7 @@ Je navigue à l'intersection du **Développement Full Stack** et de la **Cybers�
 ### 🤝 On reste en contact ?
 
 <p align="left">
-  <a href="https://linkedin.com/in/adja-adama-kandji" target="blank">
+  <a href="https://linkedin.com/in/adja-adama-ndiongue-a07039254" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
   </a>
   <a href="mailto:adjaadamandiongue@gmail.com">
