@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Bienvenue sur mon profil, moi c'est Adja, Étudiante en Master SRIV</h1>
+  <h1>👋 Bienvenue sur mon profil, moi c'est Adja, Étudiante en SRIV</h1>
   <p><b>Architecte de solutions web sécurisées | Passionnée par l'infrastructure et la défense numérique</b></p>
 </div>
 
